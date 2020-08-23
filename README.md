@@ -4,7 +4,7 @@
 
 # [III. Yêu cầu, công cụ](requirements_tools.md)
 
-# IV. Bắt đầu
+# [IV. Bắt đầu](getting_started.md)
 
 # V. Nâng cao, tips & tricks
 
