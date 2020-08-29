@@ -6,6 +6,6 @@
 
 # [IV. Bắt đầu](getting_started.md)
 
-# V. Nâng cao, tips & tricks
+# [V. Nâng cao, tips & tricks](advance_tips_tricks.md)
 
 # VI. Bài tập
